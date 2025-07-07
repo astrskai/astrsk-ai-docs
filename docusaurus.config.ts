@@ -58,13 +58,13 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    // image: 'img/docusaurus-social-card.jpg',
+    image: "img/social.png",
     navbar: {
-      // title: 'astrsk.ai',
       logo: {
-        alt: "My Site Logo",
+        alt: "astrsk.ai",
         src: "img/logo.svg",
+        srcDark: "img/logo-dark.svg",
+        width: 90,
       },
       items: [
         { to: "/getting-started", label: "Getting Started", position: "left" },
