@@ -6,4 +6,18 @@ import DocCardList from "@theme/DocCardList";
 
 # Agent node
 
+## Agent Name
+
+The agent's name is primarily used to distinguish between agents. It also serves as a prefix when the agent's output is stored in the context as variables.
+
+When the agent name is converted to a variable prefix, it is transformed to [`snake_case`](https://en.wikipedia.org/wiki/Snake_case). For example, if the agent's name is `Test Agent`, it becomes `test_agent`.
+
+## Select Model
+
+Configure the model to execute the agent. Available models are displayed based on the providers configured in the **[Settings > Providers]** screen.
+
+## Agent Panels
+
+You can configure the agent's details in the following panels:
+
 <DocCardList />
