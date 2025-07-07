@@ -35,3 +35,11 @@ See the [Plot Card Panels](./plot-card.md) guide for a full explanation.
 ## Important Notes
 
 A card’s information will only be used if it is explicitly referenced in the flow. For example, if you add a Plot Card but do not include any instructions or placeholders for plot information in your flow, the AI will not incorporate that plot into the session, regardless of the card’s presence. This ensures you maintain full control over which card details are integrated into your roleplay.
+
+## Customize your panel layout
+
+You can rearrange the panel layout by dragging tabs to your preferred position.
+Simply click and drag any open panel (e.g. Character Info, Variables) to reorder them within the side panel. This lets you customize the workspace to fit your workflow and prioritize the information you use most.
+
+![Character Card](./images/card-panel-drag-1.png)
+![Character Card](./images/card-panel-drag-2.png)

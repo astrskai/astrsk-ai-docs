@@ -14,7 +14,7 @@ This is the main panel for a card's visual identity. Here you can:
 
 This panel also serves as a hub to open the other data panels.
 
-![Card Panel](./images/card-panel.png)
+![Card Panel](./images/plot-card-panel.png)
 *[Image placeholder: Shows the card panel with image upload and previews for card, avatar, and list item.]*
 
 ## Metadata Panel
@@ -28,7 +28,7 @@ Here you can set the card's name, along with other organizational details such a
 
 This information is for your reference and does not impact the AI's performance.
 
-![Plot Card Metadata Panel](./images/card-metadata-panel.png)
+![Plot Card Metadata Panel](./images/plot-metadata-panel.png)
 *[Image placeholder: Shows the metadata panel with fields for name, author, etc.]*
 
 ## Plot Info Panel
@@ -46,19 +46,19 @@ You can create multiple lorebooks to store detailed information, facts, or memor
 - **Recall Range:** Set the scan depth to determine how many messages are checked for triggers.
 - **Description:** The detailed information or facts contained within this lorebook entry.
 
-![Lorebook Panel](./images/lorebook-panel.png)
+![Lorebook Panel](./images/plot-lorebook-panel.png)
 *[Image placeholder: Shows the interface for adding lorebook entries.]*
 
 ## Scenarios Panel
 
 This panel allows you to define specific scenes or events that can be triggered within the roleplay. These scenarios can be used to guide the narrative at key points.
 
-![Scenarios Panel](./images/scenarios-panel.png)
+![Scenarios Panel](./images/plot-scenarios-panel.png)
 *[Image placeholder: Shows the interface for defining scenarios.]*
 
 ## Variables Panel
 
 This panel allows the card creator to add predefined variables into the card's text fields, such as the plot descriptions, example dialogs, lorebook description fields, and scenario fields. This enables the reuse of information and dynamic content within the card.
 
-![Variables Panel](./images/variables-panel.png)
+![Variables Panel](./images/plot-variables-panel.png)
 *[Image placeholder: Shows the variables panel where a user can add custom key-value pairs.]*

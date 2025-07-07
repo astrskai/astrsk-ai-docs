@@ -2,7 +2,7 @@
 
 These actions appear when hovering over a card item in the card list.
 
-![Card hover actions](./images/card-hover-actions.png)
+![Card hover actions](./images/card-hover-actions.mov)
 *[Image placeholder: Shows clone, delete, and export actions appearing on hover over a card item in the list]*
 
 ## Clone a Card
