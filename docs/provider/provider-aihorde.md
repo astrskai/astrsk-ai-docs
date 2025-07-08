@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Connect AI Horde
 
 [AI Horde](https://stablehorde.net/) is a crowdsourced distributed cluster for AI art and text generation.

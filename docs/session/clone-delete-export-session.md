@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Clone/Delete/Export a Session
 
 These actions will appear when hovering over a session item in the session list.

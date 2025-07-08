@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Connect Ollama
 
 [Ollama](https://ollama.com/) is an application that allows you to run AI models directly on your local device.

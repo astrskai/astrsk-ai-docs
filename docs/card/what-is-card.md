@@ -1,3 +1,7 @@
+---
+sidebar_position: 0
+---
+
 # What is a Card?
 
 A card is a self-contained element that contributes to the overall prompt when included in a roleplay session.

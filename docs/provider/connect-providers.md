@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Connect Providers
 
 Connecting to AI providers in astrsk.ai primarily involves using API Keys. These keys authenticate your application with the provider's services, allowing you to access their models.

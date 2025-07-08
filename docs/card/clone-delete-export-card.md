@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Clone/Delete/Export a Card
 
 These actions appear when hovering over a card item in the card list.

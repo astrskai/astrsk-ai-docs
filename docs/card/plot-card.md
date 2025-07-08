@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Plot Card Panels
 
 When creating or editing a Plot Card, you will work with several panels, each designed to organize based on the type of information.

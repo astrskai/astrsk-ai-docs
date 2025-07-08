@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Character Card Panels
 
 When creating or editing a Character Card, you will work with several panels, each designed to organize based on the type of information.

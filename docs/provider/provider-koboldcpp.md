@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Connect KoboldCPP
 
 [KoboldCPP](https://github.com/LostRuins/koboldcpp) is an application that allows you to run AI models directly on your local device.

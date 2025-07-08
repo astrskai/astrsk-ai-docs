@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Import a Session
 
 ## Import Session Steps

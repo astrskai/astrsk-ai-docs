@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Session Play
 
 Clicking on a particular session will take you to the main session scree. This is where you interact with the AI and play your session.
