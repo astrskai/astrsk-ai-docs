@@ -67,7 +67,7 @@ const config: Config = {
         width: 90,
       },
       items: [
-        { to: "/getting-started", label: "Getting Started", position: "left" },
+        { to: "/", label: "Getting Started", position: "left" },
         { to: "/session", label: "Session", position: "left" },
         { to: "/card", label: "Card", position: "left" },
         { to: "/flow", label: "Flow", position: "left" },
