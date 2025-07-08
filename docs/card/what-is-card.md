@@ -8,7 +8,6 @@ A card is a self-contained element that contributes to the overall prompt when i
 In astrsk.ai, you can create two categories of cards, each serving a distinct purpose: **character cards** and **plot cards**.
 
 ![Card Overview](./images/card-overview.png)
-*[Image placeholder: Shows an overview of a card's features]*
 
 ## Character Cards
 

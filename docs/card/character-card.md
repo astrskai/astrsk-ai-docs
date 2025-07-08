@@ -19,7 +19,6 @@ This is the main panel for a card's visual identity. Here you can:
 This panel also serves as a hub to open the other data panels.
 
 ![Card Panel](./images/card-panel.png)
-*[Image placeholder: Shows the card panel with image upload and previews for card, avatar, and list item.]*
 
 ## Metadata Panel
 
