@@ -22,6 +22,7 @@ Here's a list of supported providers and where to obtain their API keys:
 
 - **OpenAI:** [https://platform.openai.com/api-keys](https://platform.openai.com/api-keys)
 - **Anthropic:** [https://console.anthropic.com/settings/keys](https://console.anthropic.com/settings/keys)
+- **Cohere:** [https://dashboard.cohere.com/api-keys](https://dashboard.cohere.com/api-keys)
 - **Google:** [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
 - **Deepseek:** [https://platform.deepseek.com/api_keys](https://platform.deepseek.com/api_keys)
 - **Mistral AI:** [https://console.mistral.ai/api-keys](https://console.mistral.ai/api-keys)
