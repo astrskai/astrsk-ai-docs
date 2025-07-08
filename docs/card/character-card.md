@@ -33,14 +33,12 @@ Here you can set the card's name, along with other organizational details such a
 These information are not added to the prompt that influences the AI output.
 
 ![Character Card Metadata Panel](./images/card-metadata-panel.png)
-*[Image placeholder: Shows the metadata panel with fields for name, author, etc.]*
 
 ## Character Info Panel
 
 This is where you define the core attributes of your character, including their name, description, and example dialogue. The content here is designed to be pulled into the flow to guide the AI.
 
 ![Character Info Panel](./images/character-info-panel.png)
-*[Image placeholder: Shows the character info panel with fields for personality, background, etc.]*
 
 ## Lorebook Panels
 
@@ -51,7 +49,6 @@ You can create multiple lorebook entries to store detailed information, facts, o
 - **Description:** The detailed information or facts contained within this lorebook entry.
 
 ![Lorebook Panel](./images/lorebook-panel.png)
-*[Image placeholder: Shows the interface for adding lorebook entries.]*
 
 ## Variables Panel
 
@@ -59,4 +56,3 @@ This panel allows the card creator to add predefined variables into the card's t
 Each variable can be added to text fields by just clicking the variable while the cursor is in a text field.
 
 ![Variables Panel](./images/variables-panel.png)
-*[Image placeholder: Shows the variables panel where a user can add custom key-value pairs.]*

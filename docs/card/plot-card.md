@@ -32,14 +32,12 @@ Here you can set the card's name, along with other organizational details such a
 This information is for your reference and does not impact the AI's performance.
 
 ![Plot Card Metadata Panel](./images/card-metadata-panel.png)
-*[Image placeholder: Shows the metadata panel with fields for name, author, etc.]*
 
 ## Plot Info Panel
 
 This is where you define the core elements of your plot, primarily through the **Description** field. The content here is designed to be pulled into the flow to guide the AI.
 
 ![Plot Info Panel](./images/plot-info-panel.png)
-*[Image placeholder: Shows the plot info panel with fields for scenario, initial message, etc.]*
 
 ## Lorebook Panels
 
@@ -50,14 +48,12 @@ You can create multiple lorebook entries to store detailed information, facts, o
 - **Description:** The detailed information or facts contained within this lorebook entry.
 
 ![Lorebook Panel](./images/lorebook-panel.png)
-*[Image placeholder: Shows the interface for adding lorebook entries.]*
 
 ## Scenarios Panel
 
 This panel allows you to define specific scenes or events that can be triggered within the roleplay. These scenarios can be used to guide the narrative at key points. One of the scenarios will be chosen as the 'first message' of the session when starting a new session.
 
 ![Scenarios Panel](./images/scenarios-panel.png)
-*[Image placeholder: Shows the interface for defining scenarios.]*
 
 ## Variables Panel
 
@@ -65,4 +61,3 @@ This panel allows the card creator to add predefined variables into the card's t
 Each variable can be added to text fields by just clicking the variable while the cursor is in a text field.
 
 ![Variables Panel](./images/variables-panel.png)
-*[Image placeholder: Shows the variables panel where a user can add custom key-value pairs.]*

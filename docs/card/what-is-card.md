@@ -20,7 +20,6 @@ Character Cards describe a character for the AI to portray. The information is o
 See the [Character Card Panels](./character-card.md) guide for a full explanation.
 
 ![Character Card](./images/character-card.png)
-*[Image placeholder: Shows an example of a character card]*
 
 ## Plot Cards
 
@@ -33,11 +32,6 @@ Plot Cards define the scenario and storyline of the roleplay. The defined scenar
 See the [Plot Card Panels](./plot-card.md) guide for a full explanation.
 
 ![Plot Card](./images/plot-card.png)
-*[Image placeholder: Shows an example of a plot card]*
-
-## Important Notes
-
-A card’s information will only be used in the actual session only if it is explicitly referenced in the flow and if the information created as a variable. For example, if you add a card but do not include any variables that use information about the card in your flow, the AI will not incorporate that card information into the session, regardless of the card’s presence. This ensures you maintain full control over which card details are integrated into your roleplay.
 
 ## Customize your panel layout
 
@@ -45,4 +39,7 @@ You can rearrange the panel layout by dragging tabs to your preferred position.
 Simply click and drag any open panel (e.g. Character Info, Variables) to reorder them within the side panel. This lets you customize the workspace to fit your workflow and prioritize the information you use most.
 
 ![Character Card](./images/card-panel-drag-1.png)
-![Character Card](./images/card-panel-drag-2.png)
+
+## Important Note
+
+A card’s information will only be used in the actual session only if it is explicitly referenced in the flow and if the information created as a variable. For example, if you add a card but do not include any variables that use information about the card in your flow, the AI will not incorporate that card information into the session, regardless of the card’s presence. This ensures you maintain full control over which card details are integrated into your roleplay.

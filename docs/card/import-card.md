@@ -9,14 +9,12 @@ sidebar_position: 2
 Click the "Import" button located at the top of the card list in the *resource panel*. This opens a file selection window, allowing you to bring in external card files.
 
 ![Import button](./images/import-button.png)
-*[Image placeholder: Shows the "Import" button on top of the card list in the resource panel]*
 
 ## Select Card Files to Import
 
 You can import V2, V3, or astrsk.ai card files. Once selected, they will be added to cards list to be used in roleplay sessions.
 
 ![Import card file selection](./images/import-card-file.png)
-*[Image placeholder: Shows the file selection window for importing cards]*
 
 ## Important Notes
 

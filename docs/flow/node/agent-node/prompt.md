@@ -6,7 +6,9 @@ sidebar_position: 1
 
 A prompt is the core input value passed to the model. In the context of Large Language Models (LLMs), a prompt is a text instruction or question that guides the model to generate a desired response. It serves as the primary way to communicate with the AI model and influence its behavior and output.
 
-Prompts are categorized into two main formats based on their input structure: Chat Completion, which organizes input into structured message units, and Text Completion, which accepts input as plain text. The availability of these input formats may vary depending on the model provider.
+Prompts are categorized into two main formats based on their input structure:
+- **Chat Completion**, which organizes input into structured message units.
+- **Text Completion**, which accepts input as plain text. The availability of these input formats may vary depending on the model provider.
 
 ![Prompt](./images/prompt.png)
 
@@ -45,7 +47,7 @@ Messages are the individual units of communication in chat completion format. Ea
 
 History messages are used to insert past conversation history from the session into the prompt. This provides the model with context about previous interactions, helping it generate more coherent and contextually appropriate responses.
 
-The role of each message is automatically determined based on the speaker: messages spoken by the character for whom you want to generate a response through the flow are set to `assistant`, while messages spoken by other characters are set to `user`.
+The role of each message is automatically determined based on the speaker; messages spoken by the character for whom you want to generate a response through the flow are set to `assistant`, while messages spoken by other characters are set to `user`.
 
 ![History Message](./images/prompt-history-message.png)
 
