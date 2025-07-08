@@ -2,11 +2,12 @@
 sidebar_position: 1
 ---
 
-# What is the Flow?
+# What is a Flow?
 
 ## Concept
 
-Flow is a structured process in astrsk.ai for systematically handling complex tasks. It breaks down large tasks into smaller units and executes them sequentially to produce final results.
+Flow is set of sequencially linked nodes that execute to create a response for a roleplay session.
+A flow has to be connected from the start node to the end node (with the agent nodes in between) for it to execute properly.
 
 ![Concept](./images/flow-concept.png)
 
@@ -14,44 +15,37 @@ Flow is a structured process in astrsk.ai for systematically handling complex ta
 
 ### Node
 
-A node is the basic execution unit of a flow. Each node is responsible for a specific function or task.
-
-Nodes have the following characteristics:
-- **Input**: Receives context from the previous node
-- **Process**: Performs unique functions (e.g., text analysis, image processing, data transformation)
-- **Output**: Stores processing results as variables in the context and passes them to the next node
+A node is the basic execution unit of a flow. Nodes come in three types:
+- **Start node**: The start node is where the flow begins. .
+- **Agent node**:
+    - An agent calls an AI model and obtains an output that can be used later in other agents or in response design.
+    - Agents can take on different responsibities depending on the nature of the roleplay and the AI model used.
+- **End node**:
+    - The end node is where the flow ends.
+    - In the end node, users can use the response design feature to customize how the AI reponse in displayed during the roleplay session.
 
 ![Node](./images/flow-node.png)
 
 ### Edge
 
 An edge is a connection line between nodes. Nodes are executed sequentially according to the edges connected from the start node to the end node.
-
 Edges serve the following roles:
-- **Execution Order Definition**: Determines when each node will be executed
-- **Data Flow Control**: Determines the path through which context is passed
+- **Defines Execution Order**: Determines when each node will be executed.
+- **Controls Data Flow**: Determines the path through which context/information is processed.
 
-![Edge](./images/flow-edge.png)
+### Variables
 
-## Context and Variables
-
-Context is a space that stores all data and state information generated during flow execution. It serves as the "memory" of the flow.
-
-### Initial Context Setup
-
-Session information is initialized in the context based on the time when the flow is triggered. For example:
-- Information about character cards included in the session
-- Previous session history
-- Activated lorebook entries
-
-### Variable Usage
-
-Each node can utilize variables stored in the context using template syntax. Variables can be referenced in the form `{{variable_name}}` and used in node input fields or prompts.
+Each node can utilize variables stored in the context using template syntax.
+Variables can be referenced in the form `{{variable_name}}` and used in node input fields or prompts.
 
 For example:
 - `{{char.name}}`: The name of the character currently being referenced or taking action in a roleplaying sequence.
 - `{{user.description}}`: The description of the character controlled by the user in a roleplay.
 - `{{session.entries}}`: A list of all retrieved character and plot entries.
+
+There are two types of variables in astrsk.ai:
+- **(System) variables**: Basic variables that is provided by the application. These can be used in any flow or card.
+- **Agent output**: Output data from an agent node. Agent outputs are restricted to use within the flow where they were generated.
 
 ![Variables](./images/flow-variables.png)
 
