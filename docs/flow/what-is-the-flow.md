@@ -8,6 +8,8 @@ sidebar_position: 1
 
 Flow is a structured process in astrsk.ai for systematically handling complex tasks. It breaks down large tasks into smaller units and executes them sequentially to produce final results.
 
+![Concept](./images/flow-concept.png)
+
 ## Basic Components
 
 ### Node
@@ -19,6 +21,8 @@ Nodes have the following characteristics:
 - **Process**: Performs unique functions (e.g., text analysis, image processing, data transformation)
 - **Output**: Stores processing results as variables in the context and passes them to the next node
 
+![Node](./images/flow-node.png)
+
 ### Edge
 
 An edge is a connection line between nodes. Nodes are executed sequentially according to the edges connected from the start node to the end node.
@@ -26,6 +30,8 @@ An edge is a connection line between nodes. Nodes are executed sequentially acco
 Edges serve the following roles:
 - **Execution Order Definition**: Determines when each node will be executed
 - **Data Flow Control**: Determines the path through which context is passed
+
+![Edge](./images/flow-edge.png)
 
 ## Context and Variables
 
@@ -47,6 +53,8 @@ For example:
 - `{{user.description}}`: The description of the character controlled by the user in a roleplay.
 - `{{session.entries}}`: A list of all retrieved character and plot entries.
 
+![Variables](./images/flow-variables.png)
+
 ## Example
 
 Here's a simple flow example using two agents:
@@ -62,6 +70,8 @@ Start Node → Agent 1 (Input Analysis) → Agent 2 (Response Generation) → En
 4. **End Node**: Outputs `{{char_response}}` content as character message
 
 Context accumulates at each step, and the next node can utilize the results from previous nodes.
+
+![Example](./images/flow-example.png)
 
 ## References
 
