@@ -11,7 +11,6 @@ Connecting to AI providers in astrsk.ai primarily involves using API Keys. These
 Most providers require an API Key for connection. You will typically find an input field in the provider setup dialog where you can paste your key.
 
 ![API Key Input Field](./images/api-key-input.png)
-*[Image placeholder: Shows an input field for an API key in the provider connection dialog.]*
 
 ## Obtaining API Keys
 

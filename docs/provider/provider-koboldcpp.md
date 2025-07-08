@@ -27,4 +27,3 @@ Then, click **Launch** and wait a moment. The KoboldCPP UI will open in your bro
 Within astrsk.ai, navigate to the provider settings. Select **KoboldCPP** as the source, verify the **Base URL** (default `http://localhost:5001`), and then press **Connect**. Check the model list to ensure your models are available.
 
 ![Connect KoboldCPP](./images/connect-koboldcpp.png)
-*[Image placeholder: Shows the KoboldCPP connection interface in astrsk.ai settings.]*

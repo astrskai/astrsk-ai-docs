@@ -15,4 +15,3 @@ To connect to AI Horde, you will need an API key. Visit [this link](https://stab
 Within astrsk.ai, navigate to the provider settings. Select **AI Horde** as the source, enter your obtained API key into the designated field, and then press the **Connect** button. After connecting, you can check the model list to see the available models.
 
 ![Connect AI Horde](./images/connect-aihorde.png)
-*[Image placeholder: Shows the AI Horde connection interface in astrsk.ai settings.]*

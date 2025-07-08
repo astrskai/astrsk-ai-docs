@@ -41,4 +41,3 @@ ollama serve
 Within astrsk.ai, navigate to the provider settings. Select **Ollama** as the source, verify the **Base URL** (usually `http://localhost:11434/api`), and then press **Connect**.
 
 ![Connect Ollama](./images/connect-ollama.png)
-*[Image placeholder: Shows the Ollama connection interface in astrsk.ai settings.]*

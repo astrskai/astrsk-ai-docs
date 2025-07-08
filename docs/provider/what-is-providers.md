@@ -15,13 +15,11 @@ Providers make **Large Language Models (LLMs)** available. An LLM is an AI train
 astrsk.ai supports integration with multiple AI providers, allowing you to choose the best model for your specific needs and preferences.
 
 ![Provider and Models Overview](./images/provider-model-overview.png)
-*[Image placeholder: Shows a diagram illustrating providers offering various models.]*
 
 ## Accessing Providers
 
 You can manage and configure your AI providers by going to the Settings > Providers.
 
 ![Settings Page Navigation](./images/settings-page-navigation.png)
-*[Image placeholder: Shows navigation to the settings page where providers can be configured.]*
 
 This allows you to add new providers or update existing ones.
