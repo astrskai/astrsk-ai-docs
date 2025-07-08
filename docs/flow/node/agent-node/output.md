@@ -43,6 +43,8 @@ These stored outputs can then be used as inputs for:
 
 This variable-based system enables you to create sophisticated multi-step workflows where each agent builds upon previous outputs, creating rich, interconnected AI experiences that can process and transform data through multiple stages of your flow.
 
+![Chaining Agent Outputs as Inputs](./images/output-chaining-agent-outputs-as-inputs.png)
+
 ## Stream Response
 
 Determines whether to receive responses in streaming format as generation begins, or to receive them all at once after generation is complete.
