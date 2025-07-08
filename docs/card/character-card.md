@@ -6,11 +6,11 @@ When creating or editing a Character Card, you will work with several panels, ea
 
 This is the main panel for a card's visual identity. Here you can:
 
-- **Upload a Card Image:** Select an image that represents your character.
+- **Upload New Picture:** Import an image that represents your character.
 - **Preview Visuals:** See how your card will appear in different contexts across the application, including:
-    - **Card View:** The full-size card as it appears in the resource list.
-    - **Avatar View:** The circular avatar used in chat messages.
-    - **List Item View:** The compact view used in session list.
+    - **Card View:** The original full-size card view.
+    - **Avatar View:** The circular avatar used in the roleplay session.
+    - **List Item View:** The compact view displayed in the card list.
 
 This panel also serves as a hub to open the other data panels.
 
@@ -26,7 +26,7 @@ Here you can set the card's name, along with other organizational details such a
 - **Version:** The version number of the card.
 - **Conceptual Origin:** Where the idea for the card came from.
 
-This information is for your reference and does not impact the AI's performance.
+These information are not added to the prompt that influences the AI output.
 
 ![Character Card Metadata Panel](./images/card-metadata-panel.png)
 *[Image placeholder: Shows the metadata panel with fields for name, author, etc.]*
@@ -40,10 +40,10 @@ This is where you define the core attributes of your character, including their 
 
 ## Lorebook Panels
 
-You can create multiple lorebooks to store detailed information, facts, or memories about your character and their world. Each lorebook entry includes:
+You can create multiple lorebook entries to store detailed information, facts, or memories about your character and their world. Each lorebook entry includes:
 - **Lorebook Name:** A title for your lorebook entry.
 - **Keywords:** Words or phrases that trigger this lorebook entry to be recalled by the AI.
-- **Recall Range:** Set the scan depth to determine how many messages are checked for triggers.
+- **Recall Range:** The scan depth to determine how many messages are checked for triggers.
 - **Description:** The detailed information or facts contained within this lorebook entry.
 
 ![Lorebook Panel](./images/lorebook-panel.png)
@@ -51,7 +51,8 @@ You can create multiple lorebooks to store detailed information, facts, or memor
 
 ## Variables Panel
 
-This panel allows the card creator to add predefined variables into the card's text fields, such as the character description, example dialogs, lorebook description fields, and scenario fields. This enables the reuse of information and dynamic content within the card.
+This panel allows the card creator to add predefined variables into the card's text fields such as the character description, example dialogs, lorebook description fields, and scenario fields. This enables the reuse of information and dynamic content within the card.
+Each variable can be added to text fields by just clicking the variable while the cursor is in a text field.
 
 ![Variables Panel](./images/variables-panel.png)
 *[Image placeholder: Shows the variables panel where a user can add custom key-value pairs.]*

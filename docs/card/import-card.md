@@ -9,12 +9,12 @@ Click the "Import" button located at the top of the card list in the *resource p
 
 ## Select Card Files to Import
 
-You can import V2, V3, or astrsk.ai card files. Once selected, they will be added to your astrsk.ai workspace for use in roleplay sessions.
+You can import V2, V3, or astrsk.ai card files. Once selected, they will be added to cards list to be used in roleplay sessions.
 
 ![Import card file selection](./images/import-card-file.png)
 *[Image placeholder: Shows the file selection window for importing cards]*
 
 ## Important Notes
 
-- **Acceptable File Formats:** The imported files must be in either **JSON** or **PNG** format.
-- **Splitting V2/V3 Cards:** When you import a V2 or V3 card, it automatically divides into two separate cards—one Character Card and one Plot Card—so each piece of information is appropriately categorized.
+- **Acceptable File Formats:** The imported files must be in **PNG** format.
+- **Splitting V2/V3 Cards:** When you import a V2 or V3 card, it automatically divides into two separate cards — one Character Card and one Plot Card — so that each piece of information is appropriately categorized.

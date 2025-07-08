@@ -2,7 +2,7 @@
 
 ## Understanding Providers
 
-A **Provider** is a service or platform that offers access to various Artificial Intelligence (AI) models, including Large Language Models (LLMs). In astrsk.ai, providers are the gateways through which you can access different AI capabilities to power your roleplay sessions.
+A **Provider** is a service or platform that offers access to various Artificial Intelligence (AI) models. In astrsk.ai, providers are the gateways through which you can access different AI capabilities to power your roleplay sessions.
 
 ## Providers and Models
 
@@ -15,9 +15,9 @@ astrsk.ai supports integration with multiple AI providers, allowing you to choos
 
 ## Accessing Providers
 
-You can manage and configure your AI providers within the application's settings page.
+You can manage and configure your AI providers by going to the Settings > Providers.
 
 ![Settings Page Navigation](./images/settings-page-navigation.png)
 *[Image placeholder: Shows navigation to the settings page where providers can be configured.]*
 
-This allows you to add new providers, update existing ones, and select which models are available for your sessions.
+This allows you to add new providers or update existing ones.

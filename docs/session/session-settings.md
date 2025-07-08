@@ -2,44 +2,46 @@
 
 ## Accessing Settings
 
-Access session settings through a floating button on the top right corner of the session-play page. This opens the settings page from the right and all the relevant resouces are available to edit.
+Access session settings through a floating button on the top right corner of the session-play screen. This opens the settings screen and where all the edit options will be available.
 
 ![Session settings button](./images/session-settings-button.png)
 *[Image placeholder: Shows the settings button on a session card]*
 
-## Editable Settings
+## Session Edit
 
 ## Cards
 
-You can change the AI character cards used in the session. One AI card is required. Add or remove cards for group chats. The content of the cards themselves must be edited from the main Cards page.
+Add or remove cards that are used in the session. Although adding and removing cards are possible on the session edit screen, the card information must be edited from the cards screen.
 
 ![Edit cards](./images/edit-cards-step.png)
 *[Image placeholder: Cards editing interface in the settings panel]*
 
 ## Flow and agents
 
-Change the flow for your session. The content of the flow itself must be edited from the main Flow page.
+Switch the flow for the session. The flow determines how the AI interacts with the session data such as cards and session history.
+Although switching flow is possible on the session edit screen, the flow information must be edited from the flow screen.
 
 ![Edit flow](./images/edit-flow-step.png)
 *[Image placeholder: Flow selection interface in the settings panel]*
 
 ## Language & Translation
 
-Edit the language and translation settings for the current session.
+Choose which language the session will be conducted in by editing the language and translation settings for the current session.
+Use the [Displayed language] option to translate any message to a particular language and use the [AI prompt language] option to choose the target language in which the prompt is translated and sent.
 
 ![Language and translation step](./images/language-translation-step.png)
 *[Image placeholder: Language and translation settings interface in the settings panel]*
 
 ## Background
 
-Change the background image for the current session.
+Select a background image of the for the current session. Import images to use as your background by clicking the [+ Add Background] button.
 
 ![Background step](./images/background-step.png)
 *[Image placeholder: Background selection interface in the settings panel]*
 
 ## Message Styling
 
-Adjust the chat styling for the current session.
+Customize the chat message font and color for the current session. Refer to the [Preview] UI to check how the aesthetic of your play environment changes.
 
 ![Message styling step](./images/message-styling-step.png)
 *[Image placeholder: Message styling options interface in the settings panel]*

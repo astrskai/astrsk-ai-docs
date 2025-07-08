@@ -1,27 +1,25 @@
 # Session Play
 
-This is the main page where you interact with the AI characters in your session.
+Clicking on a particular session will take you to the main session scree. This is where you interact with the AI and play your session.
 
 ## Sending Messages
 
-At the bottom of the page, you will find the message input box. Type your message here and press Enter or the send button to send your message.
+At the bottom of the screen, you will find a message input box. Type your message here and press Enter or the send button to send your message.
+If you want AI to create a response for your character, click on your character button above the message input box. The AI, using the session's flow, will gerenate a response for you.
 
 ![User Input Box](./images/user-input-box.png)
 *[Image placeholder: Shows the message input box at the bottom of the chat interface]*
 
 ## Generating AI Responses
 
-To make an AI character speak, press the button with their name, located above the message input box.
-
 ### 1-on-1 Chat
 
-In a session with a single AI character, the AI will also respond automatically after you send a message. You can still use the character's button to manually trigger a response at any time.
+In 1:1 session with one AI character, the AI will respond automatically after you send a message. You can also use the character's button to manually trigger a response at any time.
 
 ### Group Chat
 
-In a group chat with multiple AI characters, you must explicitly press a character's button to make them speak. The AI will not respond automatically.
-
-On the far right of the character buttons, there is also a "Shuffle" button. Pressing this will trigger a response from one of the AI characters at random.
+In a group chat with multiple AI characters, you must explicitly press a character button to make them speak. The AI will not respond automatically.
+If you want any random of the charcters to answer, click the [Shuffle] button.
 
 ![Character Turn Buttons](./images/character-turn-buttons.png)
 *[Image placeholder: Shows the character buttons and the shuffle button above the input box for a group chat]*
@@ -32,7 +30,7 @@ You can edit, delete, or reroll any message in the chat history. Hover your mous
 
 - **Edit:** Allows you to change the content of the message.
 - **Delete:** Removes the message from the chat.
-- **Reroll:** Generates a new response from the AI for that turn.
+- **Reroll:** AI will generate a new response for that turn.
 
 ![Message Edit Controls](./images/message-edit-controls.png)
 *[Image placeholder: Shows the edit, delete, and reroll buttons appearing on a message bubble on hover]*

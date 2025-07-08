@@ -2,15 +2,16 @@
 
 ## What is a Session?
 
-A session is a **roleplay environment** that combines session-specific settings and chat history with global resources (cards and flows).
+A session is the actual roleplay that users can play with the AI. Session in astrsk.ai are created by selecting (character and plot) cards and a flow from the user's personal library.
+Along with the cards and flow which the user selects from their personal collection, the user can also set local settings (background image, chat styling, language, etc) to enrich the roleplaying experience.
 
-## Key Features
+## Key facts about session
 
-- **Cards and flows are global resources**: Sessions reference the same cards and flows that exist in your library
-- **Changes to cards and flows affect all sessions using them**: When you modify a card or flow, the changes are reflected in every session that uses them
-- **Session-specific settings remain local**: Each session maintains its own chat history, background image, chat styling, and translation settings
-
-Character and plot cards can be easily switched around and modified for dynamic roleplay experience.
+- **Cards and flows are global resources**:
+    - Character and plot cards can be easily added or removed form the session.
+    - The cards and flows that are used in a session references the ones in your library.
+    - Changes to cards and flows affect all sessions using them.
+- **Session-specific settings remain local**: Each session maintains its own chat history, background image, chat styling, and translation settings.
 
 ![Session concept diagram](./images/session.png)
 *[Image placeholder: Visual diagram illustrating how sessions work with global resources (cards/flows) and local settings]*
@@ -19,19 +20,28 @@ Character and plot cards can be easily switched around and modified for dynamic 
 
 ### Cards
 
-Cards define the characters and plots within your session. You can add multiple character cards for group chats and a plot card to set the scenario.
+There are two types of cards in astrsk.ai: character and plot.
+- Character card
+    - Defines the list of characters that part take in the session.
+    - At least one AI character is required to start a session.
+    - User characters can also be included in a session but is not required.
+- Plot card
+    - Defines what kind of scenario and first message the session is played under.
+    - A plot can also be included in a session but is not required.
 
 ### Flow
 
-The flow dictates how the AI processes information and generates responses. It's the "brain" of your session, determining the AI's behavior and interaction style.
+A flow is a set of agents that work together to create an AI response during a session.
+Flows dictate how the AI processes information and generates responses.
+One flow can have multiple agents; an agent is an entity that calls an AI model and contains an AI output as a result of the AI call.
 
 ### Chat History
 
-This is the record of all messages exchanged within the session. It's unique to each session and is not shared across other sessions.
+This is a list of the all past messages in the session.
 
 ### Session Settings
 
-These settings are specific to each session and include:
-- **Background Image:** The visual backdrop for your roleplay.
-- **Chat Styling:** How messages appear in the chat interface.
-- **Language & Translation:** Settings for language input and output, including translation options.
+Below settings are specific to each session:
+- Background Image: The visual backdrop for your roleplay.
+- Chat Styling: How messages appear in the chat interface.
+- Language & Translation: Settings for what language is visible in the chat interface and what language the prompt is written in.
