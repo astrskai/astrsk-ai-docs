@@ -15,6 +15,13 @@
   --ifm-color-primary-lightest: #cbebfc;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  .markdown {
+    --ifm-h1-vertical-rhythm-top: 6;
+    --ifm-h2-vertical-rhythm-top: 4;
+    --ifm-h3-vertical-rhythm-top: 3;
+    --ifm-heading-vertical-rhythm-top: 2;
+  }
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
