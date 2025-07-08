@@ -9,7 +9,6 @@ sidebar_position: 4
 Access session settings through a floating button on the top right corner of the session-play screen. This opens the settings screen and where all the edit options will be available.
 
 ![Session settings button](./images/session-settings-button.png)
-*[Image placeholder: Shows the settings button on a session card]*
 
 ## Session Edit
 
@@ -18,7 +17,6 @@ Access session settings through a floating button on the top right corner of the
 Add or remove cards that are used in the session. Although adding and removing cards are possible on the session edit screen, the card information must be edited from the cards screen.
 
 ![Edit cards](./images/edit-cards-step.png)
-*[Image placeholder: Cards editing interface in the settings panel]*
 
 ## Flow and agents
 
@@ -26,7 +24,6 @@ Switch the flow for the session. The flow determines how the AI interacts with t
 Although switching flow is possible on the session edit screen, the flow information must be edited from the flow screen.
 
 ![Edit flow](./images/edit-flow-step.png)
-*[Image placeholder: Flow selection interface in the settings panel]*
 
 ## Language & Translation
 
@@ -34,18 +31,15 @@ Choose which language the session will be conducted in by editing the language a
 Use the [Displayed language] option to translate any message to a particular language and use the [AI prompt language] option to choose the target language in which the prompt is translated and sent.
 
 ![Language and translation step](./images/language-translation-step.png)
-*[Image placeholder: Language and translation settings interface in the settings panel]*
 
 ## Background
 
 Select a background image of the for the current session. Import images to use as your background by clicking the [+ Add Background] button.
 
 ![Background step](./images/background-step.png)
-*[Image placeholder: Background selection interface in the settings panel]*
 
 ## Message Styling
 
 Customize the chat message font and color for the current session. Refer to the [Preview] UI to check how the aesthetic of your play environment changes.
 
 ![Message styling step](./images/message-styling-step.png)
-*[Image placeholder: Message styling options interface in the settings panel]*

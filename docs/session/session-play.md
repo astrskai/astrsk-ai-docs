@@ -12,7 +12,6 @@ At the bottom of the screen, you will find a message input box. Type your messag
 If you want AI to create a response for your character, click on your character button above the message input box. The AI, using the session's flow, will gerenate a response for you.
 
 ![User Input Box](./images/user-input-box.png)
-*[Image placeholder: Shows the message input box at the bottom of the chat interface]*
 
 ## Generating AI Responses
 
@@ -26,7 +25,6 @@ In a group chat with multiple AI characters, you must explicitly press a charact
 If you want any random of the charcters to answer, click the [Shuffle] button.
 
 ![Character Turn Buttons](./images/character-turn-buttons.png)
-*[Image placeholder: Shows the character buttons and the shuffle button above the input box for a group chat]*
 
 ## Editing Messages
 
@@ -37,4 +35,3 @@ You can edit, delete, or reroll any message in the chat history. Hover your mous
 - **Reroll:** AI will generate a new response for that turn.
 
 ![Message Edit Controls](./images/message-edit-controls.png)
-*[Image placeholder: Shows the edit, delete, and reroll buttons appearing on a message bubble on hover]*

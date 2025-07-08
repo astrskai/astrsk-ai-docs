@@ -2,9 +2,7 @@
 sidebar_position: 0
 ---
 
-# Session Manual
-
-## What is a Session?
+# What is a session
 
 A session is the actual roleplay that users can play with the AI. Session in astrsk.ai are created by selecting (character and plot) cards and a flow from the user's personal library.
 Along with the cards and flow which the user selects from their personal collection, the user can also set local settings (background image, chat styling, language, etc) to enrich the roleplaying experience.
@@ -18,18 +16,17 @@ Along with the cards and flow which the user selects from their personal collect
 - **Session-specific settings remain local**: Each session maintains its own chat history, background image, chat styling, and translation settings.
 
 ![Session concept diagram](./images/session.png)
-*[Image placeholder: Visual diagram illustrating how sessions work with global resources (cards/flows) and local settings]*
 
-## Session Components
+## What constitues a session?
 
 ### Cards
 
 There are two types of cards in astrsk.ai: character and plot.
-- Character card
+- **Character card**
     - Defines the list of characters that part take in the session.
     - At least one AI character is required to start a session.
     - User characters can also be included in a session but is not required.
-- Plot card
+- **Plot card**
     - Defines what kind of scenario and first message the session is played under.
     - A plot can also be included in a session but is not required.
 
@@ -46,6 +43,6 @@ This is a list of the all past messages in the session.
 ### Session Settings
 
 Below settings are specific to each session:
-- Background Image: The visual backdrop for your roleplay.
-- Chat Styling: How messages appear in the chat interface.
-- Language & Translation: Settings for what language is visible in the chat interface and what language the prompt is written in.
+- **Background Image:** The visual backdrop for your roleplay.
+- **Chat Styling:** How messages appear in the chat interface.
+- **Language & Translation:** Settings for what language is visible in the chat interface and what language the prompt is written in.
