@@ -16,14 +16,14 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: "https://harpychat.github.io",
+  url: "https://astrskai.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/astrsk-ai-docs/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "harpychat", // Usually your GitHub org/user name.
+  organizationName: "astrskai", // Usually your GitHub org/user name.
   projectName: "astrsk-ai-docs", // Usually your repo name.
 
   onBrokenLinks: "throw",
@@ -47,7 +47,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/harpychat/astrsk-ai-docs/blob/main/",
+            "https://github.com/astrskai/astrsk-ai-docs/blob/main/",
         },
         blog: false,
         theme: {
