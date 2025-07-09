@@ -58,10 +58,9 @@ const config: Config = {
 
   themes: [
     [
-      "@getcanary/docusaurus-theme-search-pagefind",
-      {
-        baseUrl: "/astrsk-ai-docs/",
-      },
+      "docusaurus-lunr-search",
+      // https://github.com/praveenn77/docusaurus-lunr-search?tab=readme-ov-file#options-available
+      {},
     ],
   ],
   themeConfig: {
