@@ -26,7 +26,7 @@ Here's a list of supported providers and where to obtain their API keys:
 - **Google:** [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
 - **Deepseek:** [https://platform.deepseek.com/api_keys](https://platform.deepseek.com/api_keys)
 - **Mistral AI:** [https://console.mistral.ai/api-keys](https://console.mistral.ai/api-keys)
-- **xAI (Groq):** [https://console.x.ai/team/default/api-keys](https://console.x.ai/team/default/api-keys)
+- **xAI (Grok):** [https://console.x.ai/team/default/api-keys](https://console.x.ai/team/default/api-keys)
 - **OpenRouter:** [https://openrouter.ai/settings/keys](https://openrouter.ai/settings/keys)
 - **AI Horde:** [https://stablehorde.net/register](https://stablehorde.net/register) (for API key registration)
 - **Ollama:** This is a local model runner. Refer to [Connect Ollama](./provider-ollama.md) for setup instructions.
