@@ -39,7 +39,7 @@ This type represents each individual conversation item from previous dialogue wi
 | `char_id` | `string` | ID of the character who sent the message. |
 | `char_name` | `string` | Name of the character who sent the message. |
 | `content` | `string` | Message content. |
-| `variables` | `Record<string, any>` | Final variable state when this message was generated. |
+| `variables` | `Record<string, any>` | The variables and their values after message generation is complete. |
 
 ### `Date`
 
