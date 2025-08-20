@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# astrsk.ai Docs 
+# Getting started with astrsk.ai 
 Welcome to astrsk.ai, a platform that enables immersive AI-driven roleplay experiences.
 In asterisk, sessions are where you actually interact with the AI to unleash your creativity!
 But before you can start a session, there are two essential building blocks that is at the center of its customizability: Cards and Flows.
